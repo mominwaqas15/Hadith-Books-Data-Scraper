@@ -35,7 +35,7 @@ The project has the following structure:
 
 To get started with this project, follow these steps:
 
-1. Install the required dependencies mentioned in the `dependencies.txt` file. Ensure that you have Python 3.x installed on your system.
+1. Install the required dependencies mentioned in the `dependencies.txt` file. Ensure that you have Python 3.11 installed on your system.
 
 2. Open the `Scrape_Data.ipynb` Jupyter Notebook and execute the cells to scrape the book titles, chapters, and Forty Hadith from the targeted websites. Adjust the code as necessary to target different topics or websites.
 
